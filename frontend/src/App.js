@@ -3,6 +3,7 @@ function App() {
     <div>
       <header>
         <a href="/">Amazona</a>
+        <a href="/">Amazona</a>
       </header>
       <main>list products</main>
     </div>
